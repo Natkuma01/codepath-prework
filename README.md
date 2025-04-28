@@ -20,6 +20,19 @@ https://youtu.be/v4ickqm4TNQ
 
 
 ## App Brainstorming (Step 4)
+1️⃣ Wine Inventory Tracking App
+ - Display the current stock of wines for a restaurant or wine store
+ - Calculate and show the profit margin for each wine
+ - Allow users to add or remove wines from the inventory
+
+2️⃣ Diary App
+- Add extra security, such as a password lock, when opening the app
+- Allow users to write daily journal entries with text, emoji, or insert picture
+
+3️⃣ Activities suggestion app
+- Generates healthy activity suggestions for users based on the time they select
+- Provides detailed instructions or tips on how to perform each activity
+- Stretch Goal: Allow users to select unhealthy activities as well
 
 ## Notes
 
