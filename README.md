@@ -1,8 +1,8 @@
-# Prework - Change background color
+# Prework - My Newbie Tap
 
 Submitted by: Shimin Chan
 
-**Name of your app** is an app that... [TODO] 
+My Newbie Tap is my first attempt at an iOS app. It's a very simple app that includes three labels and a button that can change the background color randomly.
 
 Time spent: 4 hours spent in total
 
